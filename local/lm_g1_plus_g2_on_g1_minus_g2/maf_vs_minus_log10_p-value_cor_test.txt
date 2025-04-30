@@ -1,0 +1,12 @@
+
+	Pearson's product-moment correlation
+
+data:  df_slope$MAF and df_slope$minus_log10_p_value
+t = -15.775, df = 1996, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.3713793 -0.2933795
+sample estimates:
+       cor 
+-0.3329488 
+
